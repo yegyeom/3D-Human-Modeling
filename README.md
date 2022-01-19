@@ -1,4 +1,4 @@
-# 3D Human 모델링
+# 3D Virtual Human Modeling & Visualization
 
 > 숭실대학교 4학년 컴퓨터그래픽스 과제인 **3D Human 모델링** 레퍼지토리입니다.  
 > **OpenGL**을 활용해 사람의 형상을 한 캐릭터를 모든 방향에서 관찰할 수 있고  
